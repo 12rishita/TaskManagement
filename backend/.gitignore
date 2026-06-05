@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/
+npm
+node
+cd
+clear
+cls
+.DS_Store
